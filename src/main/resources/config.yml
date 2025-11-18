@@ -1,0 +1,17 @@
+# Basic Configuration
+settings:
+    debug: false
+    auto-update: true
+
+# Plugin features
+BannedItems:
+    enableItemCap: true
+    PotionChecks:
+        enableOnlyStrength1Check: false
+        enableOnlySpeed1Check: false
+    Items:
+        EnderPearl: # Example limit (This will check a entire players inventory not just one slot)
+            Limit: 16
+        BottlesO'Enchantment:
+            Limit: 128
+    

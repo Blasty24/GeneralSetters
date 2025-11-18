@@ -2,4 +2,6 @@ main: com.blasty.GeneralStartters
 version: 1.0.0-SNAPSHOT
 name: GeneralStartters
 author: Blasty25
-api-version: 1.13
+api-version: 1.21
+api:
+  - com.blasty.GeneralStartters

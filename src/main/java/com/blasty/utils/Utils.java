@@ -2,6 +2,7 @@ package com.blasty.utils;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
 import net.md_5.bungee.api.ChatColor;
 
 public class Utils {
